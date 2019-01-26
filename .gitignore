@@ -34,3 +34,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.asset
+Ghost in the House/ProjectSettings/EditorBuildSettings.asset
+Ghost in the House/ProjectSettings/EditorBuildSettings.asset
+Ghost in the House/ProjectSettings/EditorSettings.asset
+Ghost in the House/ProjectSettings/EditorBuildSettings.asset
+Ghost in the House/ProjectSettings/EditorSettings.asset
+Ghost in the House/Assets/Scenes/SampleScene.unity.meta
