@@ -35,3 +35,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 Ghost in the House/Assets/Low_Poly_Mini_Village/Demo_scene.meta
+Ghost in the House/ProjectSettings/EditorSettings.asset
+Ghost in the House/ProjectSettings/EditorSettings.asset
+*.asset
+*.asset
