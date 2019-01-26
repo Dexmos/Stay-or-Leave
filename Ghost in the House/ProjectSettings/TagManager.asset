@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Pick Up
+  - Light
+  - ennemi
+  - Pick Up2
+  - ennemi2
+  - money
   layers:
   - Default
   - TransparentFX
