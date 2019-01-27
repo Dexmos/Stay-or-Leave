@@ -7,9 +7,9 @@ public class door : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && (PlayerPrefs.GetInt("canEnter") == 1))
         {
-            SceneManager.LoadScene("Interior");
+            SceneManager.LoadScene("principal_house");
         }
     }
 }

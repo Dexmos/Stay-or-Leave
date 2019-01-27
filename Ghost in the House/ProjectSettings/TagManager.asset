@@ -10,6 +10,7 @@ TagManager:
   - Pick Up2
   - ennemi2
   - money
+  - gem
   layers:
   - Default
   - TransparentFX
