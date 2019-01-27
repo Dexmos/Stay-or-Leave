@@ -1,2 +1,2 @@
-# Ghost-in-the-House
-Project for Global Game Jam 2019
+# Stay Or Leave
+Grame made for Global Game Jam 2019
