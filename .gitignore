@@ -34,9 +34,3 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-
-Ghost in the House/Assets/Low_Poly_Mini_Village/Demo_scene.meta
-*.asset
-Ghost in the House/ProjectSettings/EditorBuildSettings.asset
-Ghost in the House/ProjectSettings/EditorSettings.asset
-Ghost in the House/Assets/Scenes/SampleScene.unity.meta
