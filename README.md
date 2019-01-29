@@ -16,7 +16,7 @@ You are a NPC that was created only for asking help to Heroes because you lose e
 
 You will have the choice to stay at your place and asking help **OR** become free.
 
-## Screen in-game
+## In-game
 
 <p align="center">
   <img width="480" height="270" src="https://github.com/Dexmos/Stay-or-Leave/blob/master/img/pnj.JPG">
