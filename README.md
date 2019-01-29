@@ -14,7 +14,7 @@ Check [our team entry](https://globalgamejam.org/2019/games/stay-or-leave) in th
 
 You are a NPC that was created only for asking help to Heroes because you lose every time your house key **but** you starting to have your own will. 
 
-You will have the choice to stay at your place and ask help to heroes **OR** become free.
+You will have the choice to stay at your place and asking help **OR** become free.
 
 ## Screen in-game
 
