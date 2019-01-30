@@ -12,18 +12,18 @@ Check [our team entry](https://globalgamejam.org/2019/games/stay-or-leave) in th
 
 ## Plot
 
-You are a NPC that was created only for asking help to Heroes because you lose every time your house key **but** you starting to have your own will. 
+You are an NPC that was created only for asking help to Heroes because you lose every time your house key **but** you starting to have your own will. 
 
 You will have the choice to stay at your place and asking help **OR** become free.
 
-## Screen in-game
+## In-game
 
 <p align="center">
   <img width="480" height="270" src="https://github.com/Dexmos/Stay-or-Leave/blob/master/img/pnj.JPG">
 </p>
 
 <p align="center">
-  Talk to the blacksmith to activate quest and find all ruby on the map !
+  Talk to the blacksmith to activate the quest and find all ruby on the map !
 </p>
 
 <p align="center">
@@ -43,15 +43,15 @@ This team was only composed of game developer :
 
 ## Install
 
-You will find on the folder named **build_Linux_Win/** the executables for Window and Linux.
+You will find in the folder named **build_Linux_Win/** the executable for Windows and Linux.
 
-* Window
+* Windows
 
 Nothing needed to install, just run the executable form the **Window/** folder.
 
 * Linux
 
-Open the **Linux/** folder and use this command line in your therminal :
+Open the **Linux/** folder and use this command line in your terminal :
 ```
 chmod 775 Stay_or_leave.x86_64
 ```
