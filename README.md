@@ -4,7 +4,7 @@
   <img width="480" height="270" src="https://github.com/Dexmos/Stay-or-Leave/blob/master/img/Stay_Or_Leave.JPG">
 </p>
 
-3D Game made for GlobalGame Jam 2019 using Unity.
+3D Game made for the Global Game Jam 2019 using Unity.
 
 Theme : **What home means to you**
 
